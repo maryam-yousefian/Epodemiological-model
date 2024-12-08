@@ -1,1 +1,1 @@
-# Epodemiological-model
+# Epodemiological-model and Schlögl model
